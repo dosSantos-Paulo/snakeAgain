@@ -30,6 +30,12 @@ function updade (event){
 }
 
 function iniciarJogo(){
+    
+    if (snake[0].x > 31 * box && direction == "right") snake[0].x = 0;
+    if (snake[0].x < 0 * box && direction == "left") snake[0].x = 32 * box;
+    if (snake[0].y > 31 * box && direction == "down") snake[0].y = 0;
+    if (snake[0].y < 0 * box && direction == "up") snake[0].y = 32 * box;
+
     criarBG();
     cobrinha(); 
 
