@@ -7,7 +7,7 @@ Este é o famoso jogo da cobrinha.
 
 Caso não conheça é muito simples: 
 - Controle a cobrinha usando as setas do teclado: [↑] [↓] [→] [←]
-- Cada vez que ela "come" uma fruta almenta + 1 de temanho
+- Cada vez que ela "come" uma fruta aumenta + 1 de temanho
 - As paredes são infinitas, então não se preocupe em bater nelas
 - Game over acontece quando você bate no proprio corpo
 - Quantos pontos será que consegue fazer ?
@@ -25,7 +25,7 @@ Caso não conheça é muito simples:
 ### Observações:
 
 Este projeto foi feito durante uma aula da Digital Innovation One 
-junto com a professora Gabrila Pinheiro.
+junto com a professora Gabriela Pinheiro.
 E eu particularmente gostei muito da didatica e do desenvolvimento
 dente projeto. 
 
